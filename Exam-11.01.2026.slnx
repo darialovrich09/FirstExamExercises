@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01.Festival/01.Festival.csproj" />
+  <Project Path="02.Tax/02.Tax.csproj" />
+  <Project Path="03.Camp/03.Camp.csproj" />
+  <Project Path="04.Sandiches/04.Sandiches.csproj" Id="c405cf12-d79b-41ed-97cd-ebaf7620a337" />
+  <Project Path="05.Locks/05.Locks.csproj" Id="af5a5b7c-dbd5-4d7f-9815-58d7df697071" />
+</Solution>
